@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_order_by_catalog_labels_option">
+        <item>Art and design</item>
+        <item>Books</item>
+        <item>Business</item>
+        <item>Environment</item>
+        <item>Film</item>
+        <item>Football</item>
+        <item>Media</item>
+        <item>Music</item>
+        <item>Politics</item>
+        <item>Sport</item>
+        <item>Technology</item>
+        <item>World news</item>
+    </string-array>
+
+    <string-array name="settings_order_by_catalog_labels_optionValues">
+        <item>artanddesign</item>
+        <item>books</item>
+        <item>business</item>
+        <item>environment</item>
+        <item>film</item>
+        <item>football</item>
+        <item>media</item>
+        <item>music</item>
+        <item>politics</item>
+        <item>sport</item>
+        <item>technology</item>
+        <item>world</item>
+    </string-array>
+
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+    </string-array>
+</resources>
